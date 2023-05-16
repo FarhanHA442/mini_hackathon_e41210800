@@ -32,3 +32,5 @@ return new class extends Migration
         Schema::dropIfExists('politik');
     }
 };
+
+//disini adalah untuk tempat migrate database
